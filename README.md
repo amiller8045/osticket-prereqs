@@ -6,6 +6,8 @@
 This tutorial outlines the prerequisites and installation of the open-source help desk ticketing system osTicket.<br />
 
 
+osTicket is an example of a system a company may use to keep track of issues and resolutions to those issues related products or services provided by that company. 
+
 
 
 <h2>Environments and Technologies Used</h2>
