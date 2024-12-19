@@ -6,7 +6,7 @@
 This tutorial outlines the prerequisites and installation of the open-source help desk ticketing system osTicket.<br />
 
 
-osTicket is an open-source help desk ticketing system used to keep track of issues and the resolutions to those issues as they relate products or services. 
+osTicket is an open-source help desk ticketing system used to keep track of issues and the resolutions to those issues as they relate to products or services. 
 
 
 
@@ -33,16 +33,16 @@ osTicket is an open-source help desk ticketing system used to keep track of issu
 
 <h2>Installation Steps</h2>
 
-1) Create a virtual machine in Microsoft Azure with the specs Windows 10 Pro, version 22H2 with at least 2vcpus and 16 gbs of memory. Name the virtual machine osTicket-vm. 
+1) Create a virtual machine in Microsoft Azure with the specs of Windows 10 Pro, version 22H2 with at least 2vcpus and 16 gbs of memory. Name the virtual machine osTicket-vm. 
 
-2) Sign in to the virtual machine using Remote Desktop Connection with the public ip address.
+2) Sign in to the virtual machine using Remote Desktop Connection with the public IP address.
 
    ![IP Address](https://github.com/user-attachments/assets/a1c74e9b-cc5f-4b07-938b-b87bfe8443bf)
 
 
 ![RDP](https://github.com/user-attachments/assets/d125b089-25b5-4682-af3b-513ea15bbe6c)
 
-The username and password is the one we created in Azure.
+The username and password are the ones we created in Azure.
 
 
 
